@@ -1,4 +1,7 @@
+//tell travis looking to test a node program
 language: node_js
+//most recent version of node
 node_js: node
+//want most recent version to run
 services:
 - mongodb
